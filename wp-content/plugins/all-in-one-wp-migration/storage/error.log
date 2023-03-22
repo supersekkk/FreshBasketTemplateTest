@@ -1,0 +1,6 @@
+Mar 21 2023 04:46:29
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/bitnami\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":171}
+
+Mar 21 2023 04:46:29
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/bitnami\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":171}
+
